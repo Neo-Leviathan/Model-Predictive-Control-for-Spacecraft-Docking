@@ -27,4 +27,4 @@ Planned extensions include incorporating delay-tolerant strategies and running M
 
 License
 
-This work is licensed under the Creative Commons License. Please cite this repository if using material from it
+This work is licensed under the Creative Commons License. Please cite this repository if using material from it.
