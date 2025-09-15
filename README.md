@@ -11,5 +11,6 @@ A detailed technical report describing the problem formulation, methodology, res
 
 Planned extensions include incorporating delay-tolerant strategies and running Monte Carlo simulations to evaluate robustness under uncertainties.
 
-License
+License:
+
 This work is licensed under the Creative Commons License. Please cite this repository if using material from it.
